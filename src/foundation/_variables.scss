@@ -1,0 +1,48 @@
+// Brand colors
+
+$green: #5ece7b;
+$green-light: #9ee2b0;
+
+$dark: #1d1f22;
+$dark-light: #737680;
+
+$blue: #0468db;
+$blue-light: #b4d2f4;
+
+$white:#ffffff;
+
+// ============= Typography ============================
+
+/**
+
+* https://fonts.google.com/specimen/Playfair+Display
+
+*/
+
+// font families
+
+$playfair: "Playfair", serif;
+$raleway: "Raleway", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+
+// font size
+
+$fx-xs: 0.75rem; // 12px
+$fx-sm: 0.875rem; // 14px
+$fx-base: 1rem; // 16px
+$fx-lg: 1.125rem; // 18px
+$fx-xl: 1.5rem; // 24px
+
+// Heading font size
+
+$h-1: 1.375rem;
+$h-2: 1.375rem;
+$h-3: 1rem;
+$h-4: 1.125rem;
+$h-5: 0.75;
+$h-6: 0.75;
+
+$breakpoints: (
+  md: 48rem,
+  lg: 64rem,
+  xl: 80rem,
+)
